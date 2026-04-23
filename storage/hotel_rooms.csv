@@ -1,0 +1,5 @@
+roomNumber,type,price,available
+606,Double,45675.0,false
+906,Deluxe,34567.0,false
+304,Single,2000.0,false
+706,Suite,25000.0,true
